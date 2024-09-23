@@ -18,4 +18,4 @@
  ### Meus projetos:
 - [Criando Cadastro de alunos em python](https://github.com/LuigiAjello/CADASTRO_ALUNOS)<br/>
 - [Gráficos microcervejarias](https://github.com/LuigiAjello/exerciciomicrocervejarias)<br/>
-- [Prova da faculdade : Análise e manipulação de dados (Olímpiadas)](https://github.com/LuigiAjello/Prova_Luigi-)<br/>
+- [Rendimento de ações comparadas com a IBOVESPA (API)](https://github.com/LuigiAjello/RendimentoAcoes)<br/>
