@@ -16,6 +16,6 @@
 
 
  ### Meus projetos:
-- [Criando Cadastro de alunos em python](https://github.com/LuigiAjello/CADASTRO_ALUNOS)<br/>
+- [Sistema de análise financeira avançada](https://github.com/LuigiAjello/DashboardcomStreamlitAP2)<br/>
 - [Gráficos microcervejarias](https://github.com/LuigiAjello/exerciciomicrocervejarias)<br/>
 - [Rendimento de ações comparadas com a IBOVESPA (API)](https://github.com/LuigiAjello/RendimentoAcoes)<br/>
