@@ -17,5 +17,5 @@
 
  ### Meus projetos:
 - [Sistema de análise financeira avançada](https://github.com/LuigiAjello/DashboardcomStreamlitAP2)<br/>
-- [Gráficos microcervejarias](https://github.com/LuigiAjello/exerciciomicrocervejarias)<br/>
+- [CRUD simples de ações](https://github.com/LuigiAjello/CRUDACOES)<br/>
 - [Rendimento de ações comparadas com a IBOVESPA (API)](https://github.com/LuigiAjello/RendimentoAcoes)<br/>
