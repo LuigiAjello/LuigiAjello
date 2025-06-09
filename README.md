@@ -20,5 +20,5 @@
 
  ### Meus projetos:
 - [Sistema de análise financeira avançada](https://github.com/LuigiAjello/DashboardcomStreamlitAP2)<br/>
-- [webscraping imóveis](https://github.com/LuigiAjello/WebScrapingImoveis)<br/>
+- [Webscraping imóveis](https://github.com/LuigiAjello/WebScrapingImoveis)<br/>
 - [Rendimento de ações comparadas com a IBOVESPA (API)](https://github.com/LuigiAjello/RendimentoAcoes)<br/>
