@@ -17,7 +17,8 @@
  <img align="center" alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="center" alt="js" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="js" src="https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge" />
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  
  ### Meus projetos:
 - [Sistema de análise financeira avançada](https://github.com/LuigiAjello/DashboardcomStreamlitAP2)<br/>
 - [Webscraping imóveis](https://github.com/LuigiAjello/WebScrapingImoveis)<br/>
